@@ -10,8 +10,7 @@
     font-size: 1rem; 
     line-height: 0.5; 
     display: inline-block;
-    width: 60px;
-    white-space: nowrap;
+    min-width: 3%;
     overflow:visible;
     color: white;
 }
@@ -21,7 +20,6 @@
 #main-home {
 
     font-family: 'Anonymous Pro', monospace;
-    display: flex;
     justify-content: center;
 }
 
@@ -46,7 +44,7 @@
     flex-direction: column;
     text-align: center;
     font-family: 'Montserrat';
-    align-items: center;
+
 }
 
 .found-me a, .found-me i{
@@ -66,4 +64,3 @@
     0% { opacity: 1; }
     100% { opacity: 0;}
 }
-
