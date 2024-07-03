@@ -105,7 +105,6 @@ body {
 .sidebar ul li {
     border-bottom: 1px solid #fff;
     position: relative;
-    overflow: hidden;
 }
 
 .sidebar ul li a {
