@@ -7,7 +7,6 @@
 
 #text-container {
     text-align: center;
-    font-size: 1rem; 
     line-height: 0.5; 
     display: inline-block;
     overflow:visible;
@@ -49,7 +48,6 @@
 .found-me a, .found-me i{
     color: rgb(255, 255, 255);
     text-decoration: none;
-    font-size: 1em;
 }
 
 .terminal::after {
